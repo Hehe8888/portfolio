@@ -82,7 +82,7 @@ Boredom, Ads...
           <td> If p then q </td>
           <td> If it is a square, then it has four sides </td>
           <td> if user_input == "escape":
-    print ("skadoosh") </td>
+          print ("skadoosh") </td>
           <td> <img class="irc_mi" src="http://deliveryimages.acm.org/10.1145/2910000/2903751/figs/f1.jpg" alt="Image result for scratch if else" onload="google.aft&amp;&amp;google.aft(this)" width="250" height="200" style="margin-top: 103px;"> </td>
         </tr>
 
